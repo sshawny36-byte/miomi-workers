@@ -1,0 +1,6 @@
+name = "miomi-google-proxy"
+main = "src/index.js"
+compatibility_date = "2026-03-13"
+
+[observability]
+enabled = true
